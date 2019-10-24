@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Edoozz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_email">Enter Your Email</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="do_not_have_account">Don\'t have an account?</string>
+    <string name="register_here">Register Here</string>
+    <string name="copyright">&#169;
+        <font color='#000000'>ED</font>
+        <font color='#D71921'>OO</font>
+        <font color='#000000'>ZZ 2019</font>
+    </string>
+
+    <!--<string name="copyright">&#169;  ED<![CDATA[<b><font color=#0000FF>OO</font></b>]]>ZZ 2019</string>-->
+
+    <string name="hint_name">Enter Your Name</string>
+    <string name="hint_con_password">Confirm Password</string>
+    <string name="terms_con"><![CDATA[Terms & Conditions]]></string>
+    <string name="agree_with_the">Agree with the</string>
+    <string name="hint_uni_name">Enter University Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="assignDateText">Assign Date:</string>
+    <string name="dueDateText">Due Date:</string>
+    <string name="status">Status</string>
+    <string name="back">Back</string>
+    <string name="examDateText">Exam Date:</string>
+    <string name="txt_save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="title_roll_call_tab">Tab2</string>
+    <string name="present">Present</string>
+    <string name="participant">Participant</string>
+    <string name="new_exam">New Exam</string>
+    <string name="or_class_time">or,
+        <font color="90BE47">Class Time</font>
+    </string>
+    <string name="upcoming_class">Upcoming Class</string>
+    <string name="new_category">New Category</string>
+    <string name="new_notice">New Notice</string>
+    <string name="attach">Attach</string>
+    <string name="faq_support"><![CDATA[Faq & Support]]></string>
+    <string name="erms_and_Conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="change_password">Change Password</string>
+    <string name="attendance">Attendance</string>
+    <string name="result">Result</string>
+    <string name="exam">Exam</string>
+    <string name="class_schedule">Class Schedule</string>
+    <string name="enroll">Enroll</string>
+    <string name="next_class">Next Class</string>
+    <string name="due">Due</string>
+    <string name="java_login_enter_password">Password should not be empty</string>
+    <string name="java_login_enter_email">Please enter your email</string>
+
+    <string-array name="android_layout_arrays">
+        <item>Select User Type</item>
+        <item>Teacher</item>
+        <item>Student</item>
+
+    </string-array>
+
+
+    <string name="java_uihelper_error">Error</string>
+    <string name="java_uihelper_ok">OK</string>
+    <string name="java_uihelper_settings">Settings</string>
+    <string name="logout">Logout</string>
+
+    <string name="storage_and_camera">Storage and Camera</string>
+
+    <string name="rationale_storage_camera">This app needs access to your storage and camera.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="rationale_storage">This app needs access to your phone storage.</string>
+    <string name="returned_from_app_settings_to_activity_storage">
+        Returned from app settings to MainActivity with the following permissions:
+        \nStorage &amp; Camera: %s
+    </string>
+    <string name="six_digit_text">Enter the 6 digit Course Enroll Code\n provided by your teacher</string>
+    <string name="new_section">Section</string>
+    <string name="hint_section">Enter Section Name</string>
+    <string name="java_enter_name">Please enter your name</string>
+    <string name="java_enter_email">Enter your email</string>
+    <string name="java_confirm_password">Enter your passwor again</string>
+    <string name="invalid_email">Please enter valid email</string>
+    <string name="required">This field is required</string>
+    <string name="password_mismatch_reg">Password mismatch</string>
+    <string name="password_length">Password length should be more than five</string>
+    <string name="chckbox_needed">Please check this</string>
+    <string name="title">Title</string>
+    <string name="subject">Subject</string>
+    <string name="description">Description</string>
+    <string name="student">I\'m Student</string>
+    <string name="teacher">I\'m Teacher</string>
+    <string name="date">Date</string>
+    <string name="hint_course_name">Enter Course Name</string>
+    <string name="course_code">Course Code</string>
+    <string name="hint_course_code">Enter Course Code</string>
+    <string name="hint_credit_point">Enter Credit Point</string>
+
+    <!--CustomDateTimePicker-->
+    <string name="java_customdatetimepicker_set_date">Set Date</string>
+    <string name="java_customdatetimepicker_set_time">Set Time</string>
+    <string name="java_customdatetimepicker_set">Set</string>
+    <string name="java_customdatetimepicker_cancel">Cancel</string>
+    <string name="marks">Marks</string>
+    <string name="enter_st_id">Enter Your Student ID</string>
+    <string name="type_message">Type Message</string>
+    <string name="tap_to_reload">Tap to reload</string>
+    <string name="error_msg_unknown">An unexpected error occurred</string>
+    <string name="hint_phone">Enter Your Phone Number</string>
+    <string name="assignment">Assignment</string>
+    <string name="password_week">Password length should greater than five</string>
+    <string name="absent">Absent</string>
+    <string name="notice">Notice</string>
+    <string name="total_class">Total Class</string>
+    <string name="update">Update</string>
+    <string name="lowest">Lowest</string>
+    <string name="average">Average</string>
+    <string name="highest">Highest</string>
+    <string name="appbar_scrolling_view_behavior">vxc</string>
+</resources>

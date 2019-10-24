@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/home"
+        icon="@drawable/latest"
+        title="Home"
+        />
+    <tab
+        id="@+id/course"
+        icon="@drawable/course"
+        title="Course"
+        />
+    <tab
+        id="@+id/news"
+        icon="@drawable/resource"
+        title="Resource"
+         />
+    <tab
+        id="@+id/result"
+        icon="@drawable/result_bottom"
+        title="Result"
+        />
+    <tab
+        id="@+id/forum"
+        icon="@drawable/more"
+        title="More"
+       />
+</tabs>
